@@ -1,7 +1,6 @@
 # Emtasks
 
-EmTasks is a simple task manager built with the Ember.js framework. This app accompanies the video series 
- [located here](https://www.youtube.com/watch?v=owDmPTSJkrg)
+EmTasks is a simple task manager built with the Ember.js framework.
 
 ## Prerequisites
 
